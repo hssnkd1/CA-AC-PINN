@@ -1,0 +1,11 @@
+{
+  "verification_checks_passed": 7,
+  "manuscript_pages_reviewed": 24,
+  "figures": 6,
+  "tables": 8,
+  "references": 34,
+  "native_word_math_objects": 189,
+  "experiment_driver": "run_study.py --part all --iterations 1500 --seeds 3",
+  "numerical_scope": "CPU float64; one BLAS thread; manufactured or exact solutions",
+  "limitations": "See manuscript Section 9 and README.md"
+}

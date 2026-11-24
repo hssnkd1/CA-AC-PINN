@@ -1,0 +1,1 @@
+CA-AC-PINN v2.1 incremental research implementation. See `run_v21_benchmark.py`, `test_v21.py`, the v2.1 manuscript and validation report. Results are exploratory; no SOTA claim. GitHub publication not performed.
